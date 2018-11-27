@@ -1,0 +1,209 @@
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+Id,Label,Attribute
+"Id,Label,Attribute",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""Id,Label,Attribute"",,",,
+"""feeling suicidal,feeling suicidal,symptom"",,",,
+"""suicidal,suicidal,symptom"",,",,
+"""hallucinations auditory,hallucinations auditory,symptom"",,",,
+"""feeling hopeless,feeling hopeless,symptom"",,",,
+"""weepiness,weepiness,symptom"",,",,
+"""sleeplessness,sleeplessness,symptom"",,",,
+"""motor retardation,motor retardation,symptom"",,",,
+"""irritable mood,irritable mood,symptom"",,",,
+"""blackout,blackout,symptom"",,",,
+"""mood depressed,mood depressed,symptom"",,",,
+"""hallucinations visual,hallucinations visual,symptom"",,",,
+"""worry,worry,symptom"",,",,
+"""agitation,agitation,symptom"",,",,
+"""tremor,tremor,symptom"",,",,
+"""intoxication,intoxication,symptom"",,",,
+"""verbal auditory hallucinations,verbal auditory hallucinations,symptom"",,",,
+"""energy increased,energy increased,symptom"",,",,
+"""difficulty,difficulty,symptom"",,",,
+"""nightmare,nightmare,symptom"",,",,
+"""unable to concentrate,unable to concentrate,symptom"",,",,
+"""homelessness,homelessness,symptom"",,",,
+"""depression mental,depression mental,disease"",,",,
+"""thicken,thicken,symptom"",,",,
+"""tumor cell invasion,tumor cell invasion,symptom"",,",,
+"""metastatic lesion,metastatic lesion,symptom"",,",,
+"""pain neck,pain neck,symptom"",,",,
+"""lung nodule,lung nodule,symptom"",,",,
+"""pain,pain,symptom"",,",,
+"""pain abdominal,pain abdominal,symptom"",,",,
+"""food intolerance,food intolerance,symptom"",,",,
+"""mass of body structure,mass of body structure,symptom"",,",,
+"""atypia,atypia,symptom"",,",,
+"""neoplasm metastasis,neoplasm metastasis,disease"",,",,
+"""shortness of breath,shortness of breath,symptom"",,",,
+"""prostatism,prostatism,symptom"",,",,
+"""drowsiness,drowsiness,symptom"",,",,
+"""sleepy,sleepy,symptom"",,",,
+"""hyponatremia,hyponatremia,symptom"",,",,
+"""fall,fall,symptom"",,",,
+"""unsteady gait,unsteady gait,symptom"",,",,
+"""polyuria,polyuria,symptom"",,",,
+"""hypotension,hypotension,symptom"",,",,
+"""syncope,syncope,symptom"",,",,
+"""speech slurred,speech slurred,symptom"",,",,
+"""weight gain,weight gain,symptom"",,",,
+"""asthenia,asthenia,symptom"",,",,
+"""fatigue,fatigue,symptom"",,",,
+"""tired,tired,symptom"",,",,
+"""mental status changes,mental status changes,symptom"",,",,
+"""vomiting,vomiting,symptom"",,",,
+"""numbness,numbness,symptom"",,",,
+"""hypothyroidism,hypothyroidism,disease"",,",,
+"""hematuria,hematuria,symptom"",,",,
+"""dysesthesia,dysesthesia,symptom"",,",,
+"""polymyalgia,polymyalgia,symptom"",,",,
+"""passed stones,passed stones,symptom"",,",,
+"""pleuritic pain,pleuritic pain,symptom"",,",,
+"""guaiac positive,guaiac positive,symptom"",,",,
+"""rale,rale,symptom"",,",,
+"""breath sounds decreased,breath sounds decreased,symptom"",,",,
+"""urge incontinence,urge incontinence,symptom"",,",,
+"""dysuria,dysuria,symptom"",,",,
+"""diarrhea,diarrhea,symptom"",,",,
+"""vertigo,vertigo,symptom"",,",,
+"""qt interval prolonged,qt interval prolonged,symptom"",,",,
+"""ataxia,ataxia,symptom"",,",,
+"""paresis,paresis,symptom"",,",,
+"""hemianopsia homonymous,hemianopsia homonymous,symptom"",,",,
+"""hemodynamically stable,hemodynamically stable,symptom"",,",,
+"""rhonchus,rhonchus,symptom"",,",,
+"""orthostasis,orthostasis,symptom"",,",,
+"""decreased body weight,decreased body weight,symptom"",,",,
+"""malignant neoplasm of prostate,malignant neoplasm of prostate,disease"",,",,
+"""chill,chill,symptom"",,",,
+"""monoclonal,monoclonal,symptom"",,",,
+"""ecchymosis,ecchymosis,symptom"",,",,
+"""haemorrhage,haemorrhage,symptom"",,",,
+"""pallor,pallor,symptom"",,",,
+"""heme positive,heme positive,symptom"",,",,
+"""pain back,pain back,symptom"",,",,
+"""dizziness,dizziness,symptom"",,",,
+"""arthralgia,arthralgia,symptom"",,",,
+"""swelling,swelling,symptom"",,",,
+"""transaminitis,transaminitis,symptom"",,",,
+"""anemia,anemia,disease"",,",,
+"""nausea,nausea,symptom"",,",,
+"""cushingoid facies,cushingoid facies,symptom"",,",,
